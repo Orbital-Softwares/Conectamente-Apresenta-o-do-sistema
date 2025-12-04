@@ -22,7 +22,7 @@ O **ConectaMente** é uma plataforma que centraliza a comunicação entre famíl
 ## 🧑‍👩‍🦱 **Responsável**
 
 - Cadastro e gerenciamento de dependentes/pacientes.  
-- Registro no Diário do Paciente (texto, foto, vídeo e link).  
+- Registro no Diário do Paciente.  
 - Visualização do Plano Terapêutico criado pelo terapeuta.  
 - Envio de feedbacks sobre atividades e orientações.  
 - Upload de relatórios em PDF.  
@@ -46,7 +46,7 @@ O **ConectaMente** é uma plataforma que centraliza a comunicação entre famíl
 
 ## 🛠️ **Administrador**
 
-- Cadastro de responsáveis, terapeutas e novos administradores.  
+- Cadastro de responsáveis, terapeutas.  
 - Exclusão de contas.  
 - Gerenciamento de vínculos e informações gerais.  
 - Acesso a logs de auditoria de usuários.  
@@ -101,7 +101,7 @@ O **ConectaMente** é uma plataforma que centraliza a comunicação entre famíl
 
 ### **Armazenamento de Arquivos – BLOB Storage**
 - Armazenamento de mídia e documentos.  
-- Permite guardar imagens, PDFs e vídeos de forma eficiente.  
+- Permite guardar imagens e PDFs de forma eficiente.  
 - Integrado ao backend do sistema.
 
 ### **Hospedagem – Railway**
