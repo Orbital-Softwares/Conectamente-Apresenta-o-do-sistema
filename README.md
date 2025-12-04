@@ -1,5 +1,5 @@
 # <img src="<COLOQUE_AQUI_A_IMAGEM_DO_SISTEMA>" width="120"/>  
-# **ConectaMente**
+# **Conectamente**
 
 Sistema web voltado para fortalecer a comunicação entre **terapeutas**, **responsáveis** e **pacientes neurodivergentes**, promovendo acompanhamento contínuo do desenvolvimento terapêutico.
 
