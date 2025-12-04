@@ -1,4 +1,4 @@
-# <img src="<COLOQUE_AQUI_A_IMAGEM_DO_SISTEMA>" width="120"/>  
+# <img src="./conectamente.png" width="120"/> 
 # **Conectamente**
 
 Sistema web voltado para fortalecer a comunicação entre **terapeutas**, **responsáveis** e **pacientes neurodivergentes**, promovendo acompanhamento contínuo do desenvolvimento terapêutico.
@@ -142,7 +142,7 @@ O **ConectaMente** é uma plataforma que centraliza a comunicação entre famíl
 
 # 🏢 **Sobre a Empresa**
 
-<img src="<COLOQUE_AQUI_A_LOGO_DA_EMPRESA>" width="150"/>
+<img src="./orbital.jpeg" width="150"/>
 
 ## **Orbital Softwares**
 
