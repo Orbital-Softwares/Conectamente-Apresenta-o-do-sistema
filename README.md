@@ -3,8 +3,6 @@
   
 </p>
 
-# **Conectamente**
-
 Sistema web voltado para fortalecer a comunicação entre **terapeutas**, **responsáveis** e **pacientes neurodivergentes**, promovendo acompanhamento contínuo do desenvolvimento terapêutico.
 
 ---
@@ -124,30 +122,25 @@ O **ConectaMente** é uma plataforma que centraliza a comunicação entre famíl
 ---
 
 # 🎥 **Demonstração do Sistema**
-
-👉 **Vídeo do Sistema:**  
-<COLOQUE_AQUI_O_LINK_DO_VÍDEO>
+👉 [Ver vídeo](https://youtu.be/e5YhLWrjH7Y)
 
 ---
 
 # 📄 **Documentação Completa**
+👉 [Ver documento](<https://drive.google.com/file/d/1iNz2Xl7q9GWEvB2rfQHFH25fc8fXW4qB/view?usp=drive_link>)
 
-👉 **Documentação Oficial do Sistema:**  
-<COLOQUE_AQUI_O_LINK_DA_DOCUMENTAÇÃO>
 
 ---
 
 # 📝 **Teste de Aceitação de Usuários**
-
-👉 **Formulário para Teste de Aceitação:**  
-<COLOQUE_AQUI_O_LINK_DO_FORMULÁRIO>
+👉 [Responder formulário](https://forms.gle/AYrN2keLWGhVmBce7)
 
 ---
 
 # 🏢 **Sobre a Empresa**
 
 <p align="center">
-  <img src="./orbital.jpeg" width="500"/>
+  <img src="./orbital.jpeg" width="300"/>
   
 </p>
 
