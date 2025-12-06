@@ -122,7 +122,7 @@ O **ConectaMente** é uma plataforma que centraliza a comunicação entre famíl
 ---
 
 # 🎥 **Demonstração do Sistema**
-👉 [Ver vídeo](https://youtu.be/e5YhLWrjH7Y)
+👉 [Ver vídeo]([https://youtu.be/e5YhLWrjH7Y](https://youtu.be/e5YhLWrjH7Y))
 
 ---
 
